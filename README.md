@@ -1,6 +1,9 @@
 # paris_sport
 A new Flutter project.
 
+# github repo
+- https://github.com/risunCode/paris_sport
+
 # Depedencies
 - C:\Program Files\Microsoft\jdk-17.0.13.11-hotspot\bin (JAVA17)
 - Android Studio & sdk (using android 12)
