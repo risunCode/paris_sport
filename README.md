@@ -13,6 +13,9 @@ A new Flutter project.
 # apa yang kurang?
 - tidak ada action di card, saat card ditekan tidak muncul info apa apa
 
+# api yang digunakan (ci)
+- https://github.com/risunCode/api_lapangan
+
 ## Using api_lapangan php 
 
 
